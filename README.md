@@ -2,7 +2,7 @@
  
  1. install roothide/theos
 
-    ```bash -c "$(curl -fsSL https://raw.githubusercontent.com/roothide/theos/master/bin/install-theos)"```
+    ```bash -c "$(curl -fsSL https://raw.githubusercontent.com/Cydiaptso/theos/master/bin/install-theos)"```
     
     and its always automatically updated to latest with original one.
 
